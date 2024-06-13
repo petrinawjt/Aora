@@ -22,7 +22,7 @@ export default function App() {
                     resizeMode='contain'
                 />
                 <View className="relative mt-5">
-                    <Text className="text-4xl text-white text-center font-pbold">
+                    <Text className="text-3xl text-white text-center font-pbold">
                         Discover Endless Possibilities with {''}
                         <Text className="text-secondary-200">
                             Aora
